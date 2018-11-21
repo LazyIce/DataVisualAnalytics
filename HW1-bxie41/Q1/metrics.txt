@@ -1,0 +1,8 @@
+Average Node Degree: 1.506
+It shows us that on average, each node in network graph has 1.506 edges. It reflects the density of network graph.
+
+Diameter of the graph: 10
+It's the longest distance of two nodes in network graph and represents the linear size of the network graph.
+
+Average Path length: 2.8326502732240435
+It shows us the average number of steps to get from one node to another node in network graph.

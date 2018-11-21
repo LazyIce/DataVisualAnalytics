@@ -1,0 +1,5 @@
+I choose the Fruchterman Reingold layout.
+I configure node's color and size based on degree ranking.
+I use filter to show labels on nodes whose degree is greater than 5.
+I use partition for nodes grouping based on degree.
+When previewing the graph, I beautify it.

@@ -1,0 +1,5 @@
+if(value == "M", 0, 1)
+if(isNull(value), "0", value)
+value.replace("55+", "56-100")
+if(toNumber(value) > 1000, 1, 0)
+305,P00025442
