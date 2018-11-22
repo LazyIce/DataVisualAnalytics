@@ -1,0 +1,20 @@
+1. Ease to develop
+    Excel: very easy
+    Tableu: easy, read documents
+    D3: complex, need html, css, js, a lot of api to learn
+2. Ease to maintain the visualization
+    Excel: not easy to maintain
+    Tableu: easy to maintain
+    D3: good codes make it easy to maintain
+3. Usability of visulization developed
+    Excel: User can just see some basic charts with no interaction.
+    Tableu: User can see many charts and have several basic interactions.
+    D3: User can have more different kinds of charts and interactions.
+4. Scalability of visualization to “large” datasets
+    Excel: It can get very slow and prone to crashing on large datasets.
+    Tableu: It’s efficient on large datasets.
+    D3: It’s not efficient on large datasets because so many DOM manipulations and some layout algorithms can make it very slow.
+5. System requirements to run the visualization
+    Excel: OS, software license
+    Tableu: OS, software license
+    D3: browsers, free

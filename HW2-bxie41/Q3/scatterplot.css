@@ -1,0 +1,35 @@
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+}
+
+.tick line {
+    opacity: 0.5;
+    stroke-dasharray: 5 5;
+}
+
+text {
+    font-size: 12px;
+}
+
+.container {
+    margin-bottom: 50px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.scatterplot {
+    text-align: center;
+}
+
+.label {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.pagebreak { page-break-before: always; }

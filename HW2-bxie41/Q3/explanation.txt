@@ -1,0 +1,5 @@
+a) The combination of feature Wins+Norminations and feature IMDb Rating is better at sperating the classes.
+   Becasue we can see that the dots of "good rating" class and "bad rating" class are sperated better and more clearly.
+
+c) Doing transformation is beneficial to find the correlation between two variables.
+   It can transform the non-linear realtionship to linear realtionship so that we can use some general linear models and verify our initial guess.

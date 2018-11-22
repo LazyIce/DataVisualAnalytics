@@ -1,0 +1,33 @@
+.title {
+    font-size: 18px;
+    font-weight: 800;
+    font-style: italic;
+    text-align: center;
+}
+
+.interactive {
+    text-align: center;
+}
+
+.bar-chart {
+    display: inline-block;
+}
+
+.line-chart {
+    display: inline-block;
+}
+
+.line-chart .axis path,
+.line-chart .axis line {
+    fill: none;
+    stroke: #000;
+}
+
+.line-chart .axis text {
+    font-size: 12px;
+}
+
+.axis-label text {
+    font-size: 12px;
+    font-weight: 700;
+}
